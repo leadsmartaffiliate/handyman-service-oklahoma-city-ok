@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://handyman-service-oklahoma-city-ok.netlify.app/sitemap.xml
